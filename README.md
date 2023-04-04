@@ -1,5 +1,5 @@
 - 自用,修改自:  https://github.com/Greetlist/wow_fishing_script
--
+- 下一步: 增加钓鱼失败提醒 
 - [OverView](#overview)
 - [How To Build It](#how-to-build-it)
   - [python version](#python-version)
